@@ -1,0 +1,13 @@
+[core]
+	excludesfile = /Users/Mirko/.gitignore
+
+[alias]
+   co = checkout
+   st = status
+   ci = commit -a -m
+   po = pull origin
+   pusho = push origin 
+   
+[user]
+	name = Michael Cindric
+	email = michael.cindric@sentia.com.au
