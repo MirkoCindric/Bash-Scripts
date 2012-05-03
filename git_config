@@ -1,5 +1,5 @@
 [core]
-	excludesfile = /Users/Mirko/.gitignore
+   excludesfile = /Users/Mirko/.gitignore
 
 [alias]
    co = checkout
@@ -9,5 +9,5 @@
    pusho = push origin 
    
 [user]
-	name = Michael Cindric
-	email = michael.cindric@sentia.com.au
+   name = Michael Cindric
+   email = michael.cindric@sentia.com.au
